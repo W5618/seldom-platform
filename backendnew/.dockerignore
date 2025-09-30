@@ -1,0 +1,21 @@
+# 忽略不必要的文件和目录
+*.exe
+*.log
+.git
+.gitignore
+README.md
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# 数据和日志目录
+data/
+logs/
+
+# 开发工具文件
+.vscode/
+.idea/
+
+# 临时文件
+*.tmp
+*.temp
